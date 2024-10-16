@@ -1,3 +1,3 @@
 # Jaye Ryden Portfolio
 
-## This is the portfolio project 3.2
+## This is the portfolio for project 3.2
